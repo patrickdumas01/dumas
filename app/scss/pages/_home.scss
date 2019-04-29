@@ -1,8 +1,10 @@
- .container {
-     margin: 10px;
-     background-color: $fond-blog;
-     border-color: 10px solid $bordure-blog;
-     display: flex;
-     justify-content: space-between;
-     margin-left: 1em;
- }
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 10px;
+    background-color: $fond-blog;
+    border-color: 10px solid $bordure-blog;
+    margin-left: 1em;
+    padding-right: 5em;
+}
