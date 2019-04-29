@@ -1,0 +1,38 @@
+                body {
+                    font-family: $famillefont;
+                    border: 1em solid $bordure-blog;
+                    margin: 2em;
+                    padding: 3em;
+                }
+                
+                h1 {
+                    font-size: 3em;
+                    text-align: left;
+                    font-weight: bold;
+                    text-decoration: underline;
+                }
+                
+                h2 {
+                    font-weight: bolder;
+                    font-size: $titre-font;
+                    padding-top: 0.7em;
+                }
+                
+                h3 {
+                    font-size: 1em;
+                }
+                
+                h4 {
+                    font-size: 0.6em;
+                    margin-top: 3em;
+                }
+                
+                p {
+                    font-size: $texte-font;
+                }
+                
+                .texteintro {
+                    margin-left: 5em;
+                    font-size: 1em;
+                    line-height: 2.5em;
+                }
